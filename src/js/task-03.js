@@ -12,3 +12,12 @@ const images = [
     alt: 'Group of Horses Running',
   },
 ];
+
+// const list = document.querySelector(`#ingredients`);
+// function ingredientsListAdd() {
+//   const ingredientsList = ingredients.map(({ title }) => {
+//     return `<li><p>${title}</p></li>`.
+//   }).join();
+//   console.log(ingredientsList);
+// }
+// ingredientsListAdd();
